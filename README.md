@@ -14,3 +14,5 @@ Weather detail block could be open in Popup on click of smaller weather ticker.
 Make sure that you include the latest jQuery library in HTML and given CSS and script.
 
 Code – http://codepen.io/sandeep821/pen/RRPrpx
+
+Blog URL - http://www.web2analyst.com/simple-jquery-weather-widget/
