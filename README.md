@@ -1,5 +1,5 @@
 # Simple-JQuery-Weather-Widget
-JQuery Weather widget using regular html Template
+####JQuery Weather widget using regular html Template
 
 This code snippet app is created by using jQuery, openweathermap.org Services. The interface is simple, and it can be easily adjusted to fit the needs and color palette of a particular project.
 
